@@ -1,0 +1,16 @@
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.IoC\bin\Debug\netcoreapp3.1\DemoApplication.IoC.deps.json
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.IoC\bin\Debug\netcoreapp3.1\DemoApplication.IoC.dll
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.IoC\bin\Debug\netcoreapp3.1\DemoApplication.IoC.pdb
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.IoC\obj\Debug\netcoreapp3.1\DemoApplication.IoC.csprojAssemblyReference.cache
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.IoC\obj\Debug\netcoreapp3.1\DemoApplication.IoC.AssemblyInfoInputs.cache
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.IoC\obj\Debug\netcoreapp3.1\DemoApplication.IoC.AssemblyInfo.cs
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.IoC\obj\Debug\netcoreapp3.1\DemoApplication.IoC.dll
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.IoC\obj\Debug\netcoreapp3.1\DemoApplication.IoC.pdb
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.IoC\bin\Debug\netcoreapp3.1\DemoApplication.Application.dll
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.IoC\bin\Debug\netcoreapp3.1\DemoApplication.Domain.dll
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.IoC\bin\Debug\netcoreapp3.1\DemoApplication.Interfaces.dll
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.IoC\bin\Debug\netcoreapp3.1\DemoApplication.Application.pdb
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.IoC\bin\Debug\netcoreapp3.1\DemoApplication.Interfaces.pdb
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.IoC\bin\Debug\netcoreapp3.1\DemoApplication.Domain.pdb
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.IoC\obj\Debug\netcoreapp3.1\DemoApplication.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.IoC\obj\Debug\netcoreapp3.1\DemoApplication.IoC.csproj.CopyComplete

@@ -1,0 +1,186 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Application\\DemoApplication.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Application\\DemoApplication.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Application\\DemoApplication.Application.csproj",
+        "projectName": "DemoApplication.Application",
+        "projectPath": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Application\\DemoApplication.Application.csproj",
+        "packagesPath": "C:\\Users\\Venkatesh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Venkatesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Domain\\DemoApplication.Domain.csproj": {
+                "projectPath": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Domain\\DemoApplication.Domain.csproj"
+              },
+              "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Domain\\DemoApplication.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Domain\\DemoApplication.Domain.csproj",
+        "projectName": "DemoApplication.Domain",
+        "projectPath": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Domain\\DemoApplication.Domain.csproj",
+        "packagesPath": "C:\\Users\\Venkatesh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Venkatesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj",
+        "projectName": "DemoApplication.Interfaces",
+        "projectPath": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Venkatesh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Venkatesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Couchbase.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

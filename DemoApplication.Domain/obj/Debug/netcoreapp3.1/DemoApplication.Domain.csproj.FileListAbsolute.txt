@@ -1,0 +1,9 @@
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.Domain\bin\Debug\netcoreapp3.1\DemoApplication.Domain.deps.json
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.Domain\bin\Debug\netcoreapp3.1\DemoApplication.Domain.dll
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.Domain\bin\Debug\netcoreapp3.1\DemoApplication.Domain.pdb
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.Domain\obj\Debug\netcoreapp3.1\DemoApplication.Domain.csprojAssemblyReference.cache
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.Domain\obj\Debug\netcoreapp3.1\DemoApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.Domain\obj\Debug\netcoreapp3.1\DemoApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.Domain\obj\Debug\netcoreapp3.1\DemoApplication.Domain.AssemblyInfo.cs
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.Domain\obj\Debug\netcoreapp3.1\DemoApplication.Domain.dll
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.Domain\obj\Debug\netcoreapp3.1\DemoApplication.Domain.pdb

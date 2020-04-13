@@ -1,0 +1,14 @@
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.Application\bin\Debug\netcoreapp3.1\DemoApplication.Application.deps.json
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.Application\bin\Debug\netcoreapp3.1\DemoApplication.Application.dll
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.Application\bin\Debug\netcoreapp3.1\DemoApplication.Application.pdb
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.Application\bin\Debug\netcoreapp3.1\DemoApplication.Domain.dll
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.Application\bin\Debug\netcoreapp3.1\DemoApplication.Interfaces.dll
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.Application\bin\Debug\netcoreapp3.1\DemoApplication.Domain.pdb
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.Application\bin\Debug\netcoreapp3.1\DemoApplication.Interfaces.pdb
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.Application\obj\Debug\netcoreapp3.1\DemoApplication.Application.csprojAssemblyReference.cache
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.Application\obj\Debug\netcoreapp3.1\DemoApplication.Application.csproj.CoreCompileInputs.cache
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.Application\obj\Debug\netcoreapp3.1\DemoApplication.Application.AssemblyInfoInputs.cache
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.Application\obj\Debug\netcoreapp3.1\DemoApplication.Application.AssemblyInfo.cs
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.Application\obj\Debug\netcoreapp3.1\DemoApplication.Application.csproj.CopyComplete
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.Application\obj\Debug\netcoreapp3.1\DemoApplication.Application.dll
+C:\Users\Venkatesh\source\repos\DemoApplication\DemoApplication.Application\obj\Debug\netcoreapp3.1\DemoApplication.Application.pdb
