@@ -9,7 +9,7 @@ COPY ["DemoApplication.Api/DemoApplication.Api.csproj", "DemoApplication.Api/"]
 COPY ["DemoApplication.Interfaces/DemoApplication.Interfaces.csproj", "DemoApplication.Interfaces/"]
 COPY ["DemoApplication.Domain/DemoApplication.Domain.csproj", "DemoApplication.Domain/"]
 COPY ["DemoApplication.Application/DemoApplication.Application.csproj", "DemoApplication.Application/"]
-COPY ["DemoApplication.Domain/DemoApplication.Domain.csproj", "DemoApplication.Domain/"]
+COPY ["DemoApplication.IoC/DemoApplication.IoC.csproj", "DemoApplication.IoC.csproj/"]
 COPY ["DemoApplication.WorkerTask/DemoApplication.WorkerTask.csproj", "DemoApplication.WorkerTask/"]
 RUN dotnet restore "DemoApplication.WorkerTask/DemoApplication.WorkerTask.csproj"
 RUN dotnet restore "DemoApplication.Domain/DemoApplication.Domain.csproj"
